@@ -1,7 +1,8 @@
 # NeuCodeFinder
 A software tool for screening for the NeuCode signature in MS full scans
 
-This project is to find neutron coded pairs in MS1 spectra, as an cooperation project with Dr. Chenxi Jia. 
+This project is to find neutron coded pairs in MS1 spectra, as an cooperation project with Dr. Chenxi Jia.
+The peak detection algorithm and XIC construction algorithm are from our previously developed quantitative proteomics tool [PANDA](http://www.ncbi.nlm.nih.gov/pubmed/30816924)
 
 ## All the paramters were listed in the config file as follows:
 
